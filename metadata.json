@@ -1,0 +1,6 @@
+{
+  "name": "Corbel POS - Sistem Kasir & Inventaris",
+  "description": "Aplikasi Point of Sale (POS) modern berstandar enterprise dengan dashboard analitik penjualan, manajemen inventaris & stok, kasir pintar, struk thermal, dan skema migrasi Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
